@@ -1,4 +1,4 @@
-# Corpus
+# Corpus (Pre-Balancing)
 The corpus of texts on which the analyses of the GOBBYKID Project are based.
 
 In particular, the main corpus is subdivided in two corpora: one containing the texts written by female authors and one containing the texts written by male authors.
